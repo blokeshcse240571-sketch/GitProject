@@ -1,1 +1,1 @@
-print("Hello from Program 1")
+print("Hello from Program1")
